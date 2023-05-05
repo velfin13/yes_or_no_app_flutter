@@ -7,6 +7,18 @@
 
 La aplicacion responde si o no cuando al final del mensaje colocas un **?**
 
+## Para cambiar el bundle id ejecute el siguiente comando renombrando el nuevo nombre
+```
+flutter pub run change_app_package_name:main com.new.package.name
+```
+## Para cambiar el icono a la aplicacion ejecute
+```
+flutter pub run flutter_launcher_icons
+```
+## Para cambiar el color del splash screen ejecute
+```
+flutter pub run flutter_native_splash:create
+```
 
 ## Requerimientos
 
