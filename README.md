@@ -1,16 +1,14 @@
-# yes_no_app
+<p align="center">
+  <a href="https://flutter.dev/" target="blank"><img src="https://miro.medium.com/v2/resize:fit:1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="150" alt="Flutter Logo" /></a>
+</p>
 
-A new Flutter project.
 
-## Getting Started
+# Chat Yes or No Response
 
-This project is a starting point for a Flutter application.
+La aplicacion responde si o no cuando al final del mensaje colocas un **?**
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**flutter:** 3.7.6
+
