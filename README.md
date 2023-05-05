@@ -8,7 +8,7 @@
 La aplicacion responde si o no cuando al final del mensaje colocas un **?**
 
 
-## Requisitos
+## Requerimientos
 
 **flutter:** 3.7.6
 
