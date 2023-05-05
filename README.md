@@ -19,6 +19,11 @@ flutter pub run flutter_launcher_icons
 ```
 flutter pub run flutter_native_splash:create
 ```
+## Para generar el **.aab** debes copiar el archivo que esta en **android/key.properties.copy** y renombrarlo a **key.properties** y configurarlo, despues ejecute
+
+```
+flutter build appbundle
+```
 
 ## Requerimientos
 
